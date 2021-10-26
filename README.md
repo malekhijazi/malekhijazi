@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=malekhijazi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=malekhijazi&count_private=true&show_icons=true)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malekhijazi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malekhijazi&count_private=true)]()
 
 
 <!--
